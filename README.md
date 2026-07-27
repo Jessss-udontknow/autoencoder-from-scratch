@@ -1,11 +1,29 @@
-# Autoencoders from Scratch
+# Autoencoder from Scratch
 
-## Overview
+A hands-on project for understanding autoencoders from mathematical foundations to practical implementation.
 
-This project explains the mathematical foundations of autoencoders.
+## Project Goals
 
-### Main Features
+- Understand the mathematics behind autoencoders
+- Implement a linear autoencoder using NumPy
+- Build a nonlinear autoencoder using PyTorch
+- Compare PCA and autoencoders
+- Visualize learned latent representations
 
-- NumPy implementation
-- PyTorch implementation
-- PCA comparison
+## Project Structure
+
+```text
+autoencoder-from-scratch/
+├── notebooks/
+├── src/
+├── tests/
+├── figures/
+├── requirements.txt
+└── README.md
+
+
+## Enviroment
+
+python3.11 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt

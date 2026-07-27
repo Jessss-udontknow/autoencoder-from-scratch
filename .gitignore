@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+.venv311/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
