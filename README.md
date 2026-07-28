@@ -20,7 +20,9 @@ autoencoder-from-scratch/
 ├── figures/
 ├── requirements.txt
 └── README.md
+```
 
+---
 
 ## Enviroment
 
